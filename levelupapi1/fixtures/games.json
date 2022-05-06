@@ -1,0 +1,43 @@
+[
+    {
+        "model": "levelupapi1.game",
+        "pk": 1,
+        "fields": {
+            "title": "Monopoly",
+            "maker": "Hasbro",
+            "number_of_players": 4,
+            "skill_level": 5,
+            "game_type_id": 1,
+            "gamer_id": 1
+
+
+        }
+    },
+
+    {
+        "model": "levelupapi1.game",
+        "pk": 2,
+        "fields": {
+            "title": "Cards Against Humanity",
+            "maker": "Unknown",
+            "number_of_players": 3,
+            "skill_level": 2,
+            "game_type_id": 2,
+            "gamer_id": 1
+
+        }
+    },
+    {
+        "model": "levelupapi1.game",
+        "pk": 3,
+        "fields": {
+            "title": "CandyLand",
+            "maker": "Hasbro",
+            "number_of_players": 2,
+            "skill_level": 1,
+            "game_type_id": 3,
+            "gamer_id": 1
+
+        }
+    }
+]

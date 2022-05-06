@@ -1,0 +1,40 @@
+[
+    {
+        "model": "levelupapi1.event",
+        "pk": 1,
+        "fields": {
+            "description": "Monopoly",
+            "date": "2021-09-08",
+            "time": "4:00",
+            "organizer_id": 1,
+            "game_id": 1
+
+
+        }
+    },
+
+    {
+        "model": "levelupapi1.event",
+        "pk": 2,
+        "fields": {
+            "description": "Cards Against Humanity",
+            "date": "2020-08-28",
+            "time": "3:00",
+            "organizer_id": 1,
+            "game_id": 2
+
+        }
+    },
+    {
+        "model": "levelupapi1.event",
+        "pk": 3,
+        "fields": {
+            "description": "CandyLand",
+            "date": "2022-11-02",
+            "time": "2:00",
+            "organizer_id": 1,
+            "game_id": 3
+
+        }
+    }
+]
