@@ -6,3 +6,4 @@ SELECT * FROM authtoken_token;
 SELECT * FROM levelupapi1_gamer;
 SELECT * FROM levelupapi1_game;
 SELECT * FROM levelupapi1_game
+SELECT * FROM levelupapi1_game

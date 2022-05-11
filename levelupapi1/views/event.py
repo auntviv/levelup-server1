@@ -31,7 +31,7 @@ class EventView(ViewSet):
     
     
     def update(self, request, pk):
-        """Handle PUT requests for a game
+        """Handle PUT requests for a event
 
         Returns:
             Response -- Empty body with 204 status code
